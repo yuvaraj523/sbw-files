@@ -1,2 +1,2 @@
 # sbw-files
-contant al sbw lfiles
+contant all sbw lfiles
